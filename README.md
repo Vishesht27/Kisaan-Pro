@@ -4,3 +4,9 @@ Our project idea came into existence when we came to know that 85 of the total f
 
 
 We have conducted user experience surveys and interviews with farmers to figure out the pain points and problems faced by them. We have created User Personas, problem statements, user story, empathy map, and if/then statement. Competitive analysis has been used to find missing features from the product. We used the bridge-gap method for overcoming the problem and approaching the solution. These all design and user experience practices allowed us to explore the problems faced by farmers and what they actually need. Specific Tech stack has been to minimize the cost of the product and make the subscription affordable. Microsoft Azure allowed us to integrate the app services, SQL database, ML studio, ASP.NET core framework, Blazor framework and Twilio messaging service, all in one. This made a whole cloud functioning and deployed web application with an admin and developers working at a single cloud service. The cost estimations for the same were calculated and compared with other services like GCP and AWS. 
+
+### Video
+
+[Watch the Video on Youtube](https://www.youtube.com/watch?v=WGa8byqnQ1E)
+
+
